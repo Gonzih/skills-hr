@@ -1,0 +1,53 @@
+# skills-hr
+
+A Claude Code skill suite for HR managers and recruiters. Four skills for the full hiring lifecycle — from writing the job description to closing the candidate.
+
+## Skills
+
+### /job-description-writer
+Writes inclusive, compelling job descriptions that attract strong candidates and reduce bias.
+- Separates must-haves from wish lists (reduces requirement inflation)
+- Built-in bias check: gendered language, unnecessary degree requirements, age-coded terms
+- Outputs: full ATS version (500-700 words) + LinkedIn version (250 words) + 3 outreach subject lines
+- Triggers: job description, write JD, job posting, job listing, open role, job ad, hiring for
+
+### /interview-kit
+Generates a complete structured interview kit for any role.
+- Behavioral questions mapped to competencies, with STAR format + follow-up probes
+- Technical/skills scenarios with level-calibrated expectations
+- Illegal questions reference card
+- 1-4 scoring rubric with behavioral anchors
+- Debrief facilitation guide with groupthink prevention
+- Triggers: interview questions, interview kit, interview guide, candidate interview, structured interview, behavioral questions, interview prep
+
+### /offer-letter-generator
+Drafts professional, warm offer letters that make candidates excited to join.
+- Covers all legally necessary elements (at-will, contingencies, I-9, equity disclosure)
+- Two versions: formal PDF-ready letter + email version
+- Legal checklist before sending
+- Supports complex comp: RSUs, options, sign-on with clawback, bonus structures
+- Triggers: offer letter, write offer, job offer, compensation offer, employment offer, offer package
+
+### /performance-review-helper
+Drafts balanced, specific, actionable performance reviews.
+- Works for manager → direct report, self-evaluation, and 360 peer feedback
+- Transforms vague impressions into impact statements with evidence
+- Built-in bias check: flags personality vs. behavior language, double standards, attribution asymmetry
+- Outputs: accomplishments, strengths narrative, growth areas, rating justification, SMART goals
+- Triggers: performance review, write review, employee review, performance feedback, annual review, self review, 360 feedback
+
+## Installation
+
+```bash
+npm install @gonzih/skills-hr
+```
+
+Skills are installed to `~/.claude/skills/`. Restart Claude Code to activate.
+
+## Source
+
+https://github.com/gonzih/skills-hr
+
+## License
+
+MIT — Copyright (c) 2026 Maksim Soltan

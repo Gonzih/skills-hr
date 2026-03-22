@@ -1,0 +1,37 @@
+{
+  "name": "@gonzih/skills-hr",
+  "version": "1.0.0",
+  "description": "Claude Code skill suite for HR managers and recruiters — job descriptions, interview kits, offer letters, and performance reviews.",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "hr",
+    "recruiting",
+    "job-description",
+    "interview",
+    "offer-letter",
+    "performance-review"
+  ],
+  "author": "Maksim Soltan",
+  "license": "MIT",
+  "main": "install.js",
+  "bin": {
+    "skills-hr": "install.js"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "files": [
+    "skills/",
+    "install.js",
+    "llms.txt",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-hr.git"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
