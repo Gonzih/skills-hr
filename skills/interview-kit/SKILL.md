@@ -140,6 +140,13 @@ Instructions for running the post-interview debrief:
 
 ---
 
+## Live Data Sources
+
+- **O*NET Competency Models API** (services.onetcenter.org) — structured competency frameworks by occupation and industry. Use to map role-appropriate behavioral competencies and calibrate question depth to seniority level.
+- **SHRM Behavioral Interviewing Research** (shrm.org) — evidence-based STAR method guidance and structured interview best practices from the Society for Human Resource Management.
+
+---
+
 ## Example output
 
 **Input**: Senior Software Engineer, IC4 level, 5 competencies: technical depth, system design, collaboration, communication, ownership

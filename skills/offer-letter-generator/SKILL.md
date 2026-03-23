@@ -140,6 +140,13 @@ Avoid: overly corporate boilerplate, excessive legalese in the narrative section
 
 ---
 
+## Live Data Sources
+
+- **BLS OES Wage Percentiles by SOC Code** (bls.gov/oes) — 10th/25th/50th/75th/90th percentile wages by occupation and metro area. Use to validate that offer compensation is competitive and to flag offers below the 25th percentile for the role and geography.
+- **State Minimum Wage Database** (dol.gov/agencies/whd/minimum-wage/state) — current minimum wage by state, including scheduled increases. Use to verify base salary and any hourly conversions meet state requirements before the letter is sent.
+
+---
+
 ## Example output
 
 **Input**: Engineering Manager offer — Sarah Chen, $175K base, 15% target bonus, 50K RSUs (4yr/1yr cliff), $10K sign-on (12-month clawback), 4 weeks PTO, remote, start April 14

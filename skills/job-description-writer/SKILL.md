@@ -106,6 +106,13 @@ Three options for reaching out to passive candidates:
 
 ---
 
+## Live Data Sources
+
+- **O*NET Web Services API** (services.onetcenter.org) — occupational requirements, tasks, skills, knowledge, and abilities by SOC code. Use to validate must-have requirements and suggest role-appropriate competency language.
+- **BLS Occupational Employment and Wage Statistics (OES)** (bls.gov/oes) — median and percentile wages by occupation and geographic area. Use to benchmark salary ranges and flag postings where the stated range is significantly below market.
+
+---
+
 ## Example output
 
 **Input**: Senior Product Manager, fintech startup, remote-first, $160-200K base, equity
