@@ -134,6 +134,13 @@ The skill applies bias checks at every step. Flags include:
 
 ---
 
+## Live Data Sources
+
+- **SHRM Performance Management Research** (shrm.org) — evidence-based guidance on performance calibration, feedback effectiveness, and review cycle design from the Society for Human Resource Management.
+- **OKR Benchmark Databases** — industry OKR examples and goal-setting frameworks (e.g., from Workboard, Lattice, and Culture Amp research) to help calibrate SMART goals against what high-performing teams at comparable companies target.
+
+---
+
 ## Example output
 
 **Input**: Manager review of mid-level engineer (IC3). Exceeded on delivery — shipped 3 major features on time, helped debug a production incident. Needs growth in communication — doesn't send updates, stakeholders often surprised. Overall: Meets Expectations (strong Meets, close to Exceeds).
